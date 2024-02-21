@@ -14,17 +14,17 @@ Key Features:
 
 ## Data
 
-The data used in this project is from kaggle website.
-1.``customer_id``: An identifier for each customer 
-2. ``tenure`` : The length of time the customer has been with the bank. 
-    | credit_score| A numerical value representing the credit worthiness of a customer
-    | Age | The age of the customer |
-    | gender | Gender of the customer (Male: 1, Female: 0). | 
-    | Country | The country where the customer is located |
-    | Balance | The amount of money in the customer's account. |
-    | products_number | The number of products the customer has with the bank |   
-    | credit_card | A binary variable indicating whether the customer has a credit card with the bank.|
-    | active_member | A binary variable indicating whether the customer is an active member of the bank.|
-    | estimated_salary | The estimated salary of the customer | 
-    | Churn   | Whether the customer has churned (Yes: 1, No: 0).   |
+The data used in this project is from kaggle website
+1. ``customer_id``: An identifier for each customer 
+2. ``tenure``: The length of time the customer has been with the bank. 
+3. ``credit_score``: A numerical value representing the credit worthiness of a customer
+4. ``Age``:The age of the customer
+5. ``gender``: Gender of the customer 
+6. ``Country``: The country where the customer is located
+7. ``Balance``: The amount of money in the customer's account
+8. ``products_number``: The number of products the customer has with the bank 
+9. ``credit_card``: A binary variable indicating whether the customer has a credit card with the bank
+10. ``active_member``: A binary variable indicating whether the customer is an active member of the bank
+11. ``estimated_salary``: The estimated salary of the customer  
+12. `` Churn``: Whether the customer has churned 
 
