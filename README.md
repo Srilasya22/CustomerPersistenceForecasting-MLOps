@@ -25,7 +25,7 @@ The data used in this project is from kaggle website
 9. ``credit_card``: A binary variable indicating whether the customer has a credit card with the bank
 10. ``active_member``: A binary variable indicating whether the customer is an active member of the bank
 11. ``estimated_salary``: The estimated salary of the customer  
-12. `` Churn``: Whether the customer has churned 
+12. `` Churn``: Whether the customer has churned
 
 ## Deployment
 To set up this project on your local machine, follow these steps:
@@ -33,6 +33,12 @@ To set up this project on your local machine, follow these steps:
 1. Develop the project in python 3.9 version
 2. Clone the repository: `git clone https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps.git`
 3. Install the required dependencies: `pip install -r requirements.txt`
+
+## Exploring Data
+
+![image](https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps/assets/113256681/1130e7b2-61fb-4bac-a7b6-78656de91cb2)
+![image](https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps/assets/113256681/17386058-beef-4f33-82cc-059da0869b48)
+
 
 ## ZenML And MLFlow
 ``ZenML`` is a machine learning operations (MLOps) framework designed to simplify and streamline the end-to-end machine learning workflow. It provides a structured and organized approach to managing machine learning projects by offering features such as experiment tracking, data versioning, pipeline orchestration, and model deployment.
