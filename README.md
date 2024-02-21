@@ -49,6 +49,8 @@ To set up this project on your local machine, follow these steps:
 2. ``Projects``: MLflow Projects is a format for packaging data science code in a reusable and reproducible way, making it easy to share and reproduce results
 3. ``Models``: MLflow Models provides a standardized format for packaging machine learning models that can be used in a variety of downstream tools, such as batch inference and real-time serving
 4. ``Registry``: MLflow Registry is a centralized repository for managing and versioning machine learning models, allowing collaboration and sharing across teams
+   
+![1_vkHAubsNWN-F_2g2GVZZeQ](https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps/assets/113256681/999f9ec6-0897-4622-a7c8-2875058b43ef)
 
 #### To install Zenml:
 
