@@ -76,6 +76,8 @@ Our standard training pipeline consists of several steps:
 ```bash
 python run_pipeline.py
 ```
+![Screenshot 2024-02-21 184354](https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps/assets/113256681/a12683d0-44c8-4d0b-8964-605ef3bc50fa)
+
 
 ## Deployment pipeline
 
