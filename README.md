@@ -1,4 +1,4 @@
-# Customer Persistence Foreccasting Using MLOps
+# Customer Persistence Forecasting-MLOps
 
 Customer persistence forecasting is like predicting whether the customer will churn or not so that advanced machine learning techniques and MLOps strategies can be used to retain the customers.Dive into customer data and develop personalized retention plans that keep everyone happy and coming back for seconds!
 
@@ -31,7 +31,7 @@ The data used in this project is from kaggle website
 To set up this project on your local machine, follow these steps:
 
 1. Develop the project in python 3.9 version
-2. Clone the repository: `git clone https://github.com/your-username/your-project.git`
+2. Clone the repository: `git clone https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps.git`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## ZenML And MLFlow
