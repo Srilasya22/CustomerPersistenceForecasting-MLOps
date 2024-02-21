@@ -31,8 +31,9 @@ The data used in this project is from kaggle website
 To set up this project on your local machine, follow these steps:
 
 1. Develop the project in python 3.9 version
-2. Clone the repository: `git clone https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps.git`
-3. Install the required dependencies: `pip install -r requirements.txt`
+2. Create and activate virtual environment
+3. Clone the repository: `git clone https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps.git`
+4. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Exploring Data
 
@@ -49,8 +50,8 @@ To set up this project on your local machine, follow these steps:
 3.``Models``: MLflow Models provides a standardized format for packaging machine learning models that can be used in a variety of downstream tools, such as batch inference and real-time serving
 4.``Registry``: MLflow Registry is a centralized repository for managing and versioning machine learning models, allowing collaboration and sharing across teams
 
-####To install Zenml:
-- Create and activate virtual environment
+#### To install Zenml:
+
 ```bash
 pip install zenml["server"]
 zenml up
