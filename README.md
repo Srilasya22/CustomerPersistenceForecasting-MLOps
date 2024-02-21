@@ -5,4 +5,26 @@ Customer persistence forecasting is like predicting whether the customer will ch
 ## About the project
 
 Discovering the secret sauce to keep customers coming back for more! Unleash the power of machine learning and MLOps practices to understand how customers behave, so we can craft irresistible strategies that make them stick around. 
-![py](https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps/assets/113256681/1d8f682c-966b-4f61-a0f0-31ef576e9678)
+
+
+Key Features:
+- Data preprocessing and feature engineering
+- Development of predictive models for customer persistence.
+- Integrating MLOps principles for efficient model deployment
+
+## Data
+
+The data used in this project is from kaggle website.
+1.``customer_id``: An identifier for each customer 
+2. ``tenure`` : The length of time the customer has been with the bank. 
+    | credit_score| A numerical value representing the credit worthiness of a customer
+    | Age | The age of the customer |
+    | gender | Gender of the customer (Male: 1, Female: 0). | 
+    | Country | The country where the customer is located |
+    | Balance | The amount of money in the customer's account. |
+    | products_number | The number of products the customer has with the bank |   
+    | credit_card | A binary variable indicating whether the customer has a credit card with the bank.|
+    | active_member | A binary variable indicating whether the customer is an active member of the bank.|
+    | estimated_salary | The estimated salary of the customer | 
+    | Churn   | Whether the customer has churned (Yes: 1, No: 0).   |
+
