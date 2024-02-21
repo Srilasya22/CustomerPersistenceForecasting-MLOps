@@ -48,7 +48,9 @@ To set up this project on your local machine, follow these steps:
 1. ``Tracking``: MLflow Tracking allows you to log parameters, code versions, metrics, and output files when running your machine learning code to understand what works and what doesn't
 2. ``Projects``: MLflow Projects is a format for packaging data science code in a reusable and reproducible way, making it easy to share and reproduce results
 3. ``Models``: MLflow Models provides a standardized format for packaging machine learning models that can be used in a variety of downstream tools, such as batch inference and real-time serving
-4.``Registry``: MLflow Registry is a centralized repository for managing and versioning machine learning models, allowing collaboration and sharing across teams
+4. ``Registry``: MLflow Registry is a centralized repository for managing and versioning machine learning models, allowing collaboration and sharing across teams
+   
+![1_vkHAubsNWN-F_2g2GVZZeQ](https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps/assets/113256681/999f9ec6-0897-4622-a7c8-2875058b43ef)
 
 #### To install Zenml:
 
@@ -72,7 +74,7 @@ zenml model-deployer register mlflow --flavor=mlflow
 zenml stack register mlflow_stack -a default -o default -d mlflow -e mlflow_tracker --set
 ```
 
-### Training Pipeline
+## Training Pipeline
 
 Our standard training pipeline consists of several steps:
 - `ingest_data`: This step will ingest the data and create a `DataFrame`.
