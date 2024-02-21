@@ -1,6 +1,6 @@
 # Customer Persistence Forecasting-MLOps
 
-Customer persistence forecasting is like predicting whether the customer will churn or not so that advanced machine learning techniques and MLOps strategies can be used to retain the customers.Dive into customer data and develop personalized retention plans that keep everyone happy and coming back for seconds!
+Customer persistence forecasting is like predicting whether the customer will churn or not so that advanced machine learning techniques and MLOps strategies can be used to retain the customers.
 
 ## About the project
 
@@ -37,7 +37,7 @@ To set up this project on your local machine, follow these steps:
 ## Exploring Data
 
 ![image](https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps/assets/113256681/1130e7b2-61fb-4bac-a7b6-78656de91cb2)
-![image](https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps/assets/113256681/17386058-beef-4f33-82cc-059da0869b48)
+
 
 
 ## ZenML And MLFlow
@@ -99,5 +99,6 @@ There is a live demo of this project using Streamlit which you can find here. It
 ```bash
 streamlit run streamlit_app.py
 ```
+![Screenshot 2024-02-22 030449](https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps/assets/113256681/8b652b72-78b5-4c75-9d70-de17045537f5)
 
 
