@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/LENOVO/Desktop/CustomerPersistenceForecasting-MLOps/mlruns/0/5134b718996f4c18b7b7cf031db8f2d3/artifacts
+deleted_time: 1708438546120
+end_time: 1708438408160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5134b718996f4c18b7b7cf031db8f2d3
+run_name: skittish-robin-465
+run_uuid: 5134b718996f4c18b7b7cf031db8f2d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708438408112
+status: 3
+tags: []
+user_id: LENOVO

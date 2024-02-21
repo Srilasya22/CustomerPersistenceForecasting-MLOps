@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/LENOVO/Desktop/CustomerPersistenceForecasting-MLOps/mlruns/0/ef3bf8e3a2f74a12a99e53f85dd8b4ca/artifacts
+deleted_time: 1708438563528
+end_time: 1708437122579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ef3bf8e3a2f74a12a99e53f85dd8b4ca
+run_name: glamorous-donkey-888
+run_uuid: ef3bf8e3a2f74a12a99e53f85dd8b4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708437118754
+status: 3
+tags: []
+user_id: LENOVO

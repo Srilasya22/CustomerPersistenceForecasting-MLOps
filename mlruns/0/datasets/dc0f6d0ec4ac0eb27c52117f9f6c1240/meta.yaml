@@ -1,0 +1,16 @@
+digest: b7d14c02
+name: dataset
+profile: '{"num_rows": 12740, "num_elements": 165620}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "credit_score", "required":
+  true}, {"type": "long", "name": "age", "required": true}, {"type": "long", "name":
+  "tenure", "required": true}, {"type": "double", "name": "balance", "required": true},
+  {"type": "long", "name": "products_number", "required": true}, {"type": "long",
+  "name": "credit_card", "required": true}, {"type": "long", "name": "active_member",
+  "required": true}, {"type": "double", "name": "estimated_salary", "required": true},
+  {"type": "double", "name": "country_France", "required": true}, {"type": "double",
+  "name": "country_Germany", "required": true}, {"type": "double", "name": "country_Spain",
+  "required": true}, {"type": "double", "name": "gender_Female", "required": true},
+  {"type": "double", "name": "gender_Male", "required": true}]}'
+source: '{"tags": {"mlflow.user": "LENOVO", "mlflow.source.name": "run_pipeline.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "681bfa9c819faf27eee952d3831fbcb6799a63c4"}}'
+source_type: code

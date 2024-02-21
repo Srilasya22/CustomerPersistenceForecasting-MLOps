@@ -1,6 +1,7 @@
 from zenml import step
 import pandas as pd
 import logging
+import mlflow
 class IngestData:
     def __init__(self,data_path:str):
         self.data_path=data_path
@@ -10,7 +11,8 @@ class IngestData:
         Returns: the ingested data.
         '''
         logging.info(f"Ingesting data from {self.data_path}")
-        return pd.read_csv(self.data_path)
+        data=pd.read_csv(self.data_path)
+        return data
 
 @step
 def ingest_df( data_path:str ) -> pd.DataFrame:

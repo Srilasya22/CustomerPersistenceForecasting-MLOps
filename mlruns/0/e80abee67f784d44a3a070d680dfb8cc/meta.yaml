@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/LENOVO/Desktop/CustomerPersistenceForecasting-MLOps/mlruns/0/e80abee67f784d44a3a070d680dfb8cc/artifacts
+deleted_time: 1708438563491
+end_time: 1708437337865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e80abee67f784d44a3a070d680dfb8cc
+run_name: persistent-horse-320
+run_uuid: e80abee67f784d44a3a070d680dfb8cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708437333919
+status: 3
+tags: []
+user_id: LENOVO

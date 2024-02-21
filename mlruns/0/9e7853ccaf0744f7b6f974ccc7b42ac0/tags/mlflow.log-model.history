@@ -1,0 +1,1 @@
+[{"run_id": "9e7853ccaf0744f7b6f974ccc7b42ac0", "artifact_path": "LogisticRegression", "utc_time_created": "2024-02-20 13:55:37.922140", "flavors": {"sklearn": {"pickled_model": "model.pkl", "sklearn_version": "1.3.2", "serialization_format": "cloudpickle", "code": null}}, "model_uuid": "8bfaf66b5a2548bf97f19c244c702a58", "mlflow_version": "2.10.2", "model_size_bytes": 383}]

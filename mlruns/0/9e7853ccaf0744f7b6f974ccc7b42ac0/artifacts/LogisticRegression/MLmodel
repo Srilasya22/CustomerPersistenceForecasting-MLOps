@@ -1,0 +1,12 @@
+artifact_path: LogisticRegression
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 2.10.2
+model_size_bytes: 383
+model_uuid: 8bfaf66b5a2548bf97f19c244c702a58
+run_id: 9e7853ccaf0744f7b6f974ccc7b42ac0
+utc_time_created: '2024-02-20 13:55:37.922140'

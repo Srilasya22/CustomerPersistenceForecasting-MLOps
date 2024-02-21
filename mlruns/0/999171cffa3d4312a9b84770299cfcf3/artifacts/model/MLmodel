@@ -1,0 +1,33 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.8.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 2.10.0
+model_size_bytes: 1087
+model_uuid: 12fe08e998464bb28c7dc1e97b0c3e3b
+run_id: 999171cffa3d4312a9b84770299cfcf3
+signature:
+  inputs: '[{"type": "long", "name": "credit_score", "required": true}, {"type": "long",
+    "name": "age", "required": true}, {"type": "long", "name": "tenure", "required":
+    true}, {"type": "double", "name": "balance", "required": true}, {"type": "long",
+    "name": "products_number", "required": true}, {"type": "long", "name": "credit_card",
+    "required": true}, {"type": "long", "name": "active_member", "required": true},
+    {"type": "double", "name": "estimated_salary", "required": true}, {"type": "double",
+    "name": "country_France", "required": true}, {"type": "double", "name": "country_Germany",
+    "required": true}, {"type": "double", "name": "country_Spain", "required": true},
+    {"type": "double", "name": "gender_Female", "required": true}, {"type": "double",
+    "name": "gender_Male", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-02-21 06:11:33.866012'

@@ -2,4 +2,6 @@ pandas
 numpy
 matplotlib
 seaborn
-streamlit
+scikit-learn
+imblearn
+xgboost
