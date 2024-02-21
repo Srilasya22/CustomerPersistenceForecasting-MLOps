@@ -74,7 +74,7 @@ zenml model-deployer register mlflow --flavor=mlflow
 zenml stack register mlflow_stack -a default -o default -d mlflow -e mlflow_tracker --set
 ```
 
-### Training Pipeline
+## Training Pipeline
 
 Our standard training pipeline consists of several steps:
 - `ingest_data`: This step will ingest the data and create a `DataFrame`.
