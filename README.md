@@ -95,6 +95,7 @@ We have another pipeline, the `deployment_pipeline.py`, that extends the trainin
 ```bash
 python run_deployment.py
 ```
+![image](https://github.com/Srilasya22/CustomerPersistenceForecasting-MLOps/assets/113256681/966dd7e2-5347-4559-ac8a-b15325e5f9ae)
 
 ## Demo Streamlit App
 
