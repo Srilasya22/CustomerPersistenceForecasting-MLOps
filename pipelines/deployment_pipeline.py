@@ -100,22 +100,19 @@ def predictor(
 ) -> np.ndarray:
     service.start(timeout=10)
     data = json.loads(data)
-    # data.pop("columns")
-    # data.pop("index")
+    data.pop("columns")
+    data.pop("index")
     columns_for_df = [
-            'customer_id',
             'credit_score',
             'country',
             'gender',
             'age',
             'tenure',
             'balance',
-            'products',
-            'number',
+            'products_number',
             'credit_card',
             'active_member',
-            'estimated_salary',
-            'churn'
+            'estimated_salary'
     ]
     df = pd.DataFrame(data["data"],columns=columns_for_df)
     # df.drop('customer_id',axis=1,inplace=True)
